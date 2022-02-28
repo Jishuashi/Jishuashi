@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jishuashi
+- 👋 Hi, I’m Hugo Chartier // @Jishuashi
 - 👀 I’m interested in Video Game / Anime and DEV 
 - 🌱 I’m currently learning IT
 - 📫 How to reach me chartierhugo.pro@gmail.com
