@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hugo C.// @Jishuashi
 - 👀 I’m interested in Video Game / Anime and DEV 
 - 🌱 I’m currently learning IT
-- 📫 How to reach me chartierhugo.pro@gmail.com
+- 📫 How to reach me contact@jishuashi.fr
 
 <!---
 Jishuashi/Jishuashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
