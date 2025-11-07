@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hugo C.// @Jishuashi
 - 👀 I’m interested in Video Game / Anime and DEV 
 - 🌱 I’m currently learning IT
+- Student at 42 Paris
 - 📫 How to reach me contact@jishuashi.fr
 
 <!---
