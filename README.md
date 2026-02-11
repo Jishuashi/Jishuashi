@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Game / Anime and DEV 
 - 🌱 I’m currently learning IT
 - Student at 42 Paris
-- 📫 How to reach me contact@jishuashi.fr
+- 📫 How to reach me hchartie@student.42.fr
 
 <!---
 Jishuashi/Jishuashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
